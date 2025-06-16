@@ -13,3 +13,7 @@ Previews:
 
 ![desktop1](https://github.com/user-attachments/assets/568e4141-3910-42a1-ba1c-e07423ae7bbf)
 
+## 🌟 Stargazers over time
+
+[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/878857869.svg)](https://yhype.me?utm_source=github&utm_medium=bdelucia-hyprpanel-config-files&utm_content=chart-repository-star-cumulative)
+
